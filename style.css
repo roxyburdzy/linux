@@ -111,9 +111,3 @@ body {
   font-weight: 900px;
   letter-spacing: 2px;
 }
-.dottedline {
-  height: 5px;
-  margin-top: 15px;
-  margin-bottom: 20px;
-  border-bottom: 2px dotted #444444;
-}
